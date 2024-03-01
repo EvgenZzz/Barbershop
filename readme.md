@@ -1,3 +1,3 @@
-# Git and Github course
+# G & GH
 
 La la la
